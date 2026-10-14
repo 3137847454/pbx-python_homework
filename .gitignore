@@ -1,0 +1,12 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode配置
+.vscode/
+.idea/
+
+# conda环境
+.conda/
